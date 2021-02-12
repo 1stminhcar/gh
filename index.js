@@ -477,4 +477,4 @@ client.on("messageDelete", (message) => {
     });
 });
 
-client.login(Nzk2NzEzMzkxMzI5OTAyNTkz.X_b7Kg.PY8dvW7_GXHOajb7KueY3Z982uE)
+client.login('Nzk2NzEzMzkxMzI5OTAyNTkz.X_b7Kg.PY8dvW7_GXHOajb7KueY3Z982uE')
